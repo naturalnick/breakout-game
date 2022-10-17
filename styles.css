@@ -12,6 +12,3 @@ canvas {
     display: block;
     margin: 0 auto;
 }
-
-ctx.beginPath();
-ctx.rect(20. 40. 50, 50);
